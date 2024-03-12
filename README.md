@@ -1,1 +1,1 @@
-new Automation Project
+Automation Project
